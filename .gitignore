@@ -1,0 +1,6 @@
+src/main/webapp/node_modules/
+.settings
+.project
+.classpath
+target/
+.env
